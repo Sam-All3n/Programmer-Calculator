@@ -1,0 +1,10 @@
+﻿  Calculator.cpp
+l:\comp-1717 - object orientated c++ programming\coursework\coursework\coursework\Calculator.h(1090): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'long', possible loss of data
+l:\comp-1717 - object orientated c++ programming\coursework\coursework\coursework\Calculator.h(1116): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'long', possible loss of data
+l:\comp-1717 - object orientated c++ programming\coursework\coursework\coursework\Calculator.h(1136): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'long', possible loss of data
+l:\comp-1717 - object orientated c++ programming\coursework\coursework\coursework\Calculator.h(1345): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+l:\comp-1717 - object orientated c++ programming\coursework\coursework\coursework\Calculator.h(1355): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+l:\comp-1717 - object orientated c++ programming\coursework\coursework\coursework\Calculator.h(1364): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+l:\comp-1717 - object orientated c++ programming\coursework\coursework\coursework\Calculator.h(1373): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+l:\comp-1717 - object orientated c++ programming\coursework\coursework\coursework\Calculator.h(1382): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Coursework.vcxproj -> L:\Comp-1717 - Object Orientated C++ Programming\Coursework\Coursework\Debug\Coursework.exe
